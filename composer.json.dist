@@ -3,12 +3,9 @@
     "description":"n/a",
     "license": "proprietary",
     "require": {
+        "bear/sunday": "~1.0.0-rc",
         "bear/package": "~1.0@dev"
     },
-    "require-dev": {
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "BEAR\\Skeleton\\": "src/"
